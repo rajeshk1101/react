@@ -1,6 +1,6 @@
 import React from 'react';
 
-const About = () => {
+const SignUp = () => {
 return (
 	<div
 	style={{
@@ -10,9 +10,9 @@ return (
 		height: '100vh'
 	}}
 	>
-	<h1>CWG Portal for Salesforce SSO.</h1>
+	<h1>CWG</h1>
 	</div>
 );
 };
 
-export default About;
+export default SignUp;
